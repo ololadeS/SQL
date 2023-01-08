@@ -1,5 +1,5 @@
 # Air Pollution dataset 
-Exploratory data analysis were perform to summarize, and understand the pattern in the dataset using MSSQL.
+Exploratory data analysis were perform to summarize, understand the pattern and create view using MSSQL.
 ### Analysis process 
 1. Start by connecting to the database
 2. Retrive the data using SELECT Statement
